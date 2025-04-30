@@ -4,13 +4,13 @@ Welcome to the official course repository for **Enterprise RAG & Multi-Agent App
 
 This repo is for **enrolled students only** and contains all code, exercises, templates, and project materials used throughout the course.
 
-🔗 [Course Page (for reference)](https://maven.com/boring-bot/advanced-llm)
+🔗 [Visit course page for more information](https://maven.com/boring-bot/advanced-llm)
 
 ---
 
 ## How to Use This Repo
 
-- Content is organized **week by week**, aligned with live sessions and project milestones.
+- This repo contains supplemental content for the course. Content is organized **week by week**, aligned with live sessions and project milestones.
 - **Google Colab Pro** is the preferred environment for running notebooks.
 - You may also **clone the repo locally** and run notebooks using Jupyter or your IDE.
 - Each notebook includes its own dependencies via `!pip install` — there is **no global `requirements.txt`**.
@@ -26,16 +26,6 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-## Pre-Requisites Before Starting
-
-To ensure a smooth experience, please complete the following before the course begins:
-
-- Set up a [Google Cloud Platform (GCP) account](https://console.cloud.google.com/)
-- Set up an AWS account
-- Subscribe to [Google Colab](https://colab.research.google.com/signup) (Pro ~$10/month recommended)
-- Sign up on [Ares API – Traversaal.ai](https://www.traversaal.ai/) (free)
-- Set up a [Redis Cloud account](https://redis.com/try-free/)
-
 ## Weekly Breakdown
 
 ### Week 1: Agentic RAG
@@ -44,8 +34,7 @@ To ensure a smooth experience, please complete the following before the course b
 - Agentic RAG Components
 - Advanced Agents
 
-📓 `Module01/Agentic_RAG`  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) _(Coming Soon)_
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamzafarooq/multi-agent-course/blob/main/Module_1/Agentic_RAG/Upload_data_to_qdrant.ipynb)
 
 ---
 
@@ -110,14 +99,7 @@ This course uses the following tools and services:
 
 ---
 
-## Important
-
-This repository is for **personal educational use only**.  
-Please **do not share, redistribute, or publish** any materials externally without written permission.
-
----
-
 ## Let’s Build AI Systems That Survive the Real World
 
 **Your instructor**: [Hamza Farooq](https://www.linkedin.com/in/hamzafarooq/)  
-**Created with ♥ by** [boring-bot](https://maven.com/boring-bot)
+**Created by** [boring-bot](https://maven.com/boring-bot)
