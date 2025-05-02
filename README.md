@@ -34,11 +34,11 @@ source venv/bin/activate
 - Agentic RAG Components
 - Advanced Agents
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamzafarooq/multi-agent-course/blob/main/Module_1/Agentic_RAG/Module01_embed_and_upload_data_to_Qdrant.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hamzafarooq/multi-agent-course/blob/main/Module_1/Agentic_RAG/Agentic_RAG_Notebook.ipynb)
 
 ---
 
-### Week 2: AOptimizing and Deploying Large Language Models
+### Week 2: Optimizing and Deploying Large Language Models
 
 - LLM Deployment and Hosting
 - Mixture of Experts
@@ -68,9 +68,10 @@ source venv/bin/activate
 
 ---
 
-### Week 5: Responsible AI
+### Week 6: Responsible AI
 
 - Guardrails and their impact on production systems
+
 
 ## Technology Stack
 
