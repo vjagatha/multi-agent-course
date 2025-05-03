@@ -8,6 +8,14 @@ This repo is for **enrolled students only** and contains all code, exercises, te
 
 ---
 
+## Recommended Resource
+
+If you'd like to deepen your understanding of building LLM applications, refer to this book:
+
+[**Build LLM Applications from Scratch**](https://www.manning.com/books/build-llm-applications-from-scratch)
+
+---
+
 ## How to Use This Repo
 
 - This repo contains supplemental content for the course. Content is organized **week by week**, aligned with live sessions and project milestones.
