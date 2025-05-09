@@ -52,6 +52,10 @@ source venv/bin/activate
 - Mixture of Experts
 - Quantization methods
 
+[![Open in Colab](https://colab.research.google.com/github/hamzafarooq/multi-agent-course/blob/main/Module_2/Quantization/TextStreamer_Meta_Llama_3_1_8B_Instruct.ipynb)
+
+[![Open in Colab](https://colab.research.google.com/github/hamzafarooq/multi-agent-course/blob/main/Module_2/Quantization/Bitsnbytes_4bit_Quantization.ipynb)
+
 ---
 
 ### Week 3: RAG Memory & Semantic Cache
